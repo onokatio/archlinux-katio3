@@ -19,5 +19,6 @@ fusion-icon-1:0.2.3-2-any.pkg.tar.gz
 grub-btrfs-3.2-1-any.pkg.tar.gz
 libcompizconfig-0.8.14-1-x86_64.pkg.tar.gz
 neovim-drop-in-1-1-any.pkg.tar.gz
+scrcpy-prebuiltserver-1.2-1-x86_64.pkg.tar.gz
 zapcc-git-r23.4f39f67d-1-x86_64.pkg.tar.gz
 ```
