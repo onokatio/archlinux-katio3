@@ -15,7 +15,7 @@ cat << 'EOF' > README.md
 ```
 [katio]
 SigLevel = Never
-Server = https://github.com/onokatio/archlinux-katio/raw/master
+Server = https://github.com/onokatio/archlinux-katio2/raw/master
 ```
 
 # Packages
